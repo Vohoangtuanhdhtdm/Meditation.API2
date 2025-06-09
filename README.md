@@ -4,7 +4,7 @@
 
 ## 🌟 Key Features
 
-* User Authentication & Authorization with JWT.
+* User Authentication & Authorization with IdentityDbContext.
 * Course & Lesson Management (CRUD).
 * User Progress Tracking.
 * RESTful API endpoints for all functionalities.
@@ -14,15 +14,13 @@
 * **Backend:** .NET 8, ASP.NET Core Web API
 * **Architecture:** Clean Architecture, SOLID Principles, Repository Pattern
 * **Database:** Microsoft SQL Server, Entity Framework Core
-* **Authentication:** JSON Web Tokens (JWT)
-
+* **Authentication:** IdentityDbContext
 ## 🏛️ Architecture
 
 This project strictly follows the principles of **Clean Architecture** to ensure a clear separation of concerns, making the system easy to test, maintain, and scale.
 
-*(Optional but highly recommended: Add a simple diagram of your architecture here. You can draw it using tools like diagrams.net and embed the image)*
 
-![Architecture Diagram] https://res.cloudinary.com/dqwxudyzu/image/upload/v1749444868/hight-level-design_ebxs5e.png
+![Architecture Diagram](https://res.cloudinary.com/dqwxudyzu/image/upload/v1749444868/hight-level-design_ebxs5e.png)
 
 ## 🚀 Getting Started
 
@@ -53,7 +51,10 @@ This project strictly follows the principles of **Clean Architecture** to ensure
 The API will be available at `https://localhost:5001/swagger`.
 
 ## 📸 Screenshots
+*(Website UI)* - Front-end github: [https://github.com/Vohoangtuanhdhtdm/meditationweb.git]
 
-*(Add 1-2 screenshots of your Swagger UI or Postman requests here to make it visual!)*
+![Website UI](https://res.cloudinary.com/dqwxudyzu/image/upload/v1749447614/Meditation_web_ui_a63jrg.png)
 
-![Swagger UI](link_to_your_swagger_screenshot.png)
+*(Swagger UI)*
+
+![Swagger UI](https://res.cloudinary.com/dqwxudyzu/image/upload/v1749447677/screencapture-localhost-7171-swagger-index-html-2025-06-09-12_03_07_lmwim9.png)
