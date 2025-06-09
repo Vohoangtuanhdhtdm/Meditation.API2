@@ -22,7 +22,7 @@ This project strictly follows the principles of **Clean Architecture** to ensure
 
 *(Optional but highly recommended: Add a simple diagram of your architecture here. You can draw it using tools like diagrams.net and embed the image)*
 
-![Architecture Diagram](link_to_your_diagram_image.png)
+![Architecture Diagram]((https://res.cloudinary.com/dqwxudyzu/image/upload/v1749444868/hight-level-design_ebxs5e.png))
 
 ## 🚀 Getting Started
 
